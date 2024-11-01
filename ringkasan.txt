@@ -1,2 +1,4 @@
 materi cloud competing kelas U
 jenis -jenis hosting
+...>Dedicatete
+...>Colocation
